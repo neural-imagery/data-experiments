@@ -7,7 +7,7 @@ from psychopy import core, event, logging, sound, visual
 from psychopy.hardware import keyboard
 
 SUBJECT = 'Wellington'
-TESTING = True # overrides SUBJECT if True
+TESTING = False # overrides SUBJECT if True
 EXPERIMENT = 'retinotopic' # 'breathing', 'retinotopic', 'seven', 'images'
 COUNTDOWN = True
 JITTER_MAX_TIME = 2
