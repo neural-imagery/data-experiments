@@ -7,7 +7,7 @@ from psychopy import core, event, logging, sound, visual
 from psychopy.hardware import keyboard
 
 SUBJECT = 'Wellington'
-TESTING = False # overrides SUBJECT if True
+TESTING = True # overrides SUBJECT if True
 EXPERIMENT = 'retinotopic' # 'breathing', 'retinotopic', 'seven', 'images'
 COUNTDOWN = True
 JITTER_MAX_TIME = 2
@@ -77,8 +77,8 @@ elif EXPERIMENT == 'retinotopic':
     flicker_freq = 5 # in Hz
     fixation.color = 'red'
 
-    wedge_starts = np.repeat(np.arange(0, 360, wedge_size), N_TRIALS)
-    np.random.shuffle(wedge_starts)
+    wedge_starts = np.tile(np.arange(0, 360, wedge_size), N_TRIALS)
+    # np.random.shuffle(wedge_starts)
 
     frames.append(('rest', fixation, DURATION_REST*2, False, None))
     for wedge_start in wedge_starts:
