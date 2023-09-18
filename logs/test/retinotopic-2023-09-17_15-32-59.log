@@ -1,0 +1,3 @@
+retinotopic	7.963151260977611	RadialStim(__class__=<class 'psychopy.visual.radial.RadialStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, blendmode='avg', color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, interpolate=False, mask='none', maskParams=None, name='unnamed RadialStim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=1, size=array([25., 25.]), tex='sqrXsqr', texRes=64, units='deg', win=Window(...))	5
+rest	13.239482834003866
+end	15.24003076000372

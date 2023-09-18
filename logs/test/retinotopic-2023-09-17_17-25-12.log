@@ -1,0 +1,10 @@
+rest	10.453372426040005	None
+retinotopic	12.48071043100208	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 10}
+rest	13.554757720034104	None
+retinotopic	15.56399864202831	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 10}
+rest	16.634728553995956	None
+retinotopic	18.647010968998075	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 10}
+rest	19.72139950504061	None
+retinotopic	21.731122750032227	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 10}
+rest	22.790919737017248	None
+end	24.791188530041836

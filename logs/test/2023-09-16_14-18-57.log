@@ -1,0 +1,15 @@
+rest	11.061454296985175
+hold_breath	12.06892719696043
+rest	14.074181688949466
+hold_breath	15.085088259947952
+3.6377 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1440, 900]. Using actual size
+5.1791 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+5.1803 	WARNING 	Use of rgb arguments to stimuli are deprecated. Please use color and colorSpace args instead
+8.0280 	WARNING 	t of last frame was 2849.10ms (=1/0)
+9.0373 	WARNING 	t of last frame was 1009.34ms (=1/0)
+10.0446 	WARNING 	t of last frame was 1007.31ms (=1/0)
+11.0615 	WARNING 	t of last frame was 1016.81ms (=1/0)
+12.0690 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!

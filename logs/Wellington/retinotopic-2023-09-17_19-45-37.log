@@ -1,0 +1,42 @@
+rest	10.603055863000918	None
+retinotopic	40.63303348701447	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	45.749058831017464	None
+retinotopic	61.21540625800844	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	66.26466918503866	None
+retinotopic	80.91607961303089	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	85.96055990300374	None
+retinotopic	100.71595222799806	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	105.8206222820445	None
+retinotopic	121.54769293003483	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	126.65357209503418	None
+retinotopic	141.9944059610134	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	147.0977682560333	None
+retinotopic	163.02966001903405	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	168.0956564490334	None
+retinotopic	182.3272074040142	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	187.36843897402287	None
+retinotopic	201.4319595270208	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	206.52434498502407	None
+retinotopic	220.8654122549924	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	225.92681583104422	None
+retinotopic	240.2221104479977	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	245.2618211620138	None
+retinotopic	260.1405031780014	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	265.23544673703145	None
+retinotopic	281.01694543199847	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	286.1290208030259	None
+retinotopic	301.47250924404943	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	306.55667158804135	None
+retinotopic	321.42988689400954	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	326.53286629804643	None
+retinotopic	341.3339084300096	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	346.42447352502495	None
+retinotopic	360.65238879300887	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	365.726250213047	None
+retinotopic	380.9136847340269	{'wedge_start': 180, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	385.9408674080041	None
+retinotopic	401.6312516659964	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	406.7316469850484	None
+retinotopic	422.6056031130138	{'wedge_start': 0, 'wedge_size': 180, 'flicker_freq': 5, 'n_flickers': 48}
+rest	427.6927897410351	None
+end	442.79445419600233
